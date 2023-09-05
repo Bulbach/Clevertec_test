@@ -1,0 +1,8 @@
+database:
+  driver-class-name: org.postgresql.Driver
+  url: jdbc:postgresql://localhost:5432/myClevertecDB
+  username: alex
+  password: alex
+
+check:
+  check-path: org/example/check
